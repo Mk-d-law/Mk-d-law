@@ -41,7 +41,7 @@ Digitized food ordering with QR-based billing to reduce thermal paper use and sa
 ## 💼 Experience
 
 ### 🛠️ Django Backend Developer Intern – **Grid R&D**  
-*Nov 2022 – Present | Chennai, India*  
+*July 2024 – Sep 2024 | Chennai, India*  
 - Boosted backend performance by optimizing queries (30% faster data retrieval)
 - Built custom XML for 15+ API integrations (Meta, LinkedIn, Indeed, etc.)
 - Improved AI resume matcher accuracy by 40% with faster job recommendations
