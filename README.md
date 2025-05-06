@@ -1,6 +1,11 @@
-# 👋 Hello there! I'm Manoj Kanna K
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/Mk-d-law/Blue Modern Corporate Staff Profile LinkedIn Banner (3).png" alt="Banner" />
+</p>
 
-A passionate **Software Developer** from Chennai, India — I specialize in backend development, automation, and full-stack engineering using Django, Python, and modern web technologies.
+<h1 align="center">Hi there, I'm Manoj Kanna 👋</h1>
+
+A passionate **Software Developer** from India — I specialize in backend development, automation, and full-stack engineering using Django, Python, and modern web technologies.
 
 ---
 
