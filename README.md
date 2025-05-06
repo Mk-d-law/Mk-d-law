@@ -24,6 +24,10 @@ A passionate **Software Developer** from India — I specialize in backend devel
 > **Python, Pandas, LangChain, Streamlit**  
 An intelligent data analysis and scraping tool that uses LangChain agents and Groq AI for handling queries, processing CSV files, and visualizing results interactively.
 
+### 🤖 [botx](https://github.com/Mk-d-law/)
+> **Python, Django, Google Gemini AI, Telegram API**  
+A smart moderation dashboard for Telegram groups, using Google Gemini to detect spam, control message types, and automate admin tasks — all via an intuitive Django interface.
+
 ### 🏙️ [City Guide - Local Search Engine](https://github.com/Mk-d-law/)
 > **PHP, MySQL, Bootstrap, Python**  
 A local guide platform with place search (hotels, temples, etc.), admin CRUD panel, and smart recommendation system — built during a freelance project.
