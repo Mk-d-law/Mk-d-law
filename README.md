@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Mk-d-law/Blue Modern Corporate Staff Profile LinkedIn Banner (3).png" alt="Banner" />
+  <img src="https://github.com/Mk-d-law/Mk-d-law/Blue Modern Corporate Staff Profile LinkedIn Banner (3).png" alt="Banner" />
 </p>
 
 <h1 align="center">Hi there, I'm Manoj Kanna 👋</h1>
